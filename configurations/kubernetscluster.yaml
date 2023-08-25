@@ -6,5 +6,5 @@ spec:
   package: xpkg.upbound.io/upbound/configuration-eks:v0.0.3
   packagePullPolicy: IfNotPresent
   revisionActivationPolicy: Automatic
-  revisionHistoryLimit: 2
+  revisionHistoryLimit: 3
   skipDependencyResolution: true
